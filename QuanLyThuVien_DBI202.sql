@@ -1,9 +1,9 @@
 
 
 -- Tạo và dùng database
-CREATE DATABASE LibraryDB;
+CREATE DATABASE Library;
 GO
-USE LibraryDB;
+USE Library;
 GO
 
 -- ------------------------------------------------------------
